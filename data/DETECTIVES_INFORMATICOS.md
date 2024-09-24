@@ -18,4 +18,4 @@
 * EDVAC
 6) Generaciones de ordenadores (fechas e indicar tres características de cada una de ellas, explicar la diferencia entre la electrónica de vacío y la electrónica de semiconductores)
 
-* [DETETIVES_INFORMATICOS](data/HISTORIA_DE_INTERNET.md)
+* [DETETIVES_INFORMATICOS](/data/HISTORIA_DE_INTERNET.md)
