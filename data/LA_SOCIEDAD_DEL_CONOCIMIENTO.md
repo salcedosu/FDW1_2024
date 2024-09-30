@@ -11,17 +11,17 @@
 * d) Comunicación
 ***
 3) Big data
-a) Concepto
-b) Origen de los datos
-c) Algoritmos de machine learning (enumerar simplemente)
-d) Aplicaciones (usos) del Big Data
+* a) Concepto
+* b) Origen de los datos
+* c) Algoritmos de machine learning (enumerar simplemente)
+* d) Aplicaciones (usos) del Big Data
  ***
 4) Consecuencias no deseables de la sociedad del conocimiento
-a) La brecha digital
-b) Ciberdelincuencia
-i) Malware: virus, gusano, troyano, rootkit, WannaCry, spam, hoax, keyloggers etc. 
-ii) Ciberacoso: ciberbullying y sexting
-iii) Técnicas: phishing, smishing, pharming, ataque DDOS (botnets), hijacking etc.
-iv) Seguridad: antivirus, firewall, proxy, VPN
+* a) La brecha digital
+* b) Ciberdelincuencia
+* i) Malware: virus, gusano, troyano, rootkit, WannaCry, spam, hoax, keyloggers etc. 
+* ii) Ciberacoso: ciberbullying y sexting
+* iii) Técnicas: phishing, smishing, pharming, ataque DDOS (botnets), hijacking etc.
+* iv) Seguridad: antivirus, firewall, proxy, VPN
 
 ***
