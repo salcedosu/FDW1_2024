@@ -3,10 +3,10 @@
 
 * 1) Diferencia entre información y conocimiento.
 * 2) Domotica
-     a) Diferencia entre domótica e IoT
-     b) Sensores
-     c) Actuadores
-     d) Comunicación
+     - a) Diferencia entre domótica e IoT
+     - b) Sensores
+     - c) Actuadores
+     - d) Comunicación
 * 3) Big data
      a) Concepto
      b) Origen de los datos
