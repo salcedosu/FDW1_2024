@@ -4,7 +4,9 @@
  ## ![la máquina de calcular de pascal](https://github.com/user-attachments/assets/93b13f4c-3b0f-47f7-aaaf-74798fae9a11)
 
 * a) Año de fabricación
+* La pascalina fue creada en 1642 por Blaise Pascal, pero su desarrollo completo de sus versiones se extendió hasta 1645.
 * b) Descripción y funcionamiento (5 líneas)
+* 
 * c) ¿Por qué no tuvo el éxito esperado?
 ***
 2) La máquina analítica de Babbage
