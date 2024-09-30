@@ -1,6 +1,9 @@
 # Detectives informaticos 
 ## DESARROLLA LOS SIGUIENTES CONTENIDOS
 1) La máquina de calcular de Pascal (pascalina)
+* La máquina de calcular de pascal
+
+   
 * a) Año de fabricación
 * b) Descripción y funcionamiento (5 líneas)
 * c) ¿Por qué no tuvo el éxito esperado?
