@@ -1,9 +1,8 @@
-c# Detectives informaticos 
+# Detectives informaticos 
 ## DESARROLLA LOS SIGUIENTES CONTENIDOS
 1) La máquina de calcular de Pascal (pascalina)
- La máquina de calcular de pascal
+ ## ![la máquina de calcular de pascal](https://github.com/user-attachments/assets/93b13f4c-3b0f-47f7-aaaf-74798fae9a11)
 
-   
 * a) Año de fabricación
 * b) Descripción y funcionamiento (5 líneas)
 * c) ¿Por qué no tuvo el éxito esperado?
