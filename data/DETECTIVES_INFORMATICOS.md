@@ -1,7 +1,7 @@
-# Detectives informaticos 
+c# Detectives informaticos 
 ## DESARROLLA LOS SIGUIENTES CONTENIDOS
 1) La máquina de calcular de Pascal (pascalina)
-* La máquina de calcular de pascal
+ La máquina de calcular de pascal
 
    
 * a) Año de fabricación
