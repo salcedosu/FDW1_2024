@@ -6,17 +6,17 @@
 ***
 2) Domotica
 * R/ La domótica se refiere al conjunto de tecnologías aplicadas al control y automatización inteligente de los sistemas y dispositivos del hogar u oficina, lo que permite una mayor eficiencia energética, seguridad y confort.
-## (https://www.caloryfrio.com/images/articulos/regulacion/smarthome.webp).
+## ![domotica](https://www.caloryfrio.com/images/articulos/regulacion/smarthome.webp).
 * a) Diferencia entre domótica e IoT
 * R/ Domótica: Específicamente se refiere a la automatización y control de dispositivos dentro del hogar o edificio.
 IoT (Internet of Things): Se refiere a una red de objetos físicos conectados a internet que pueden recolectar, intercambiar y transmitir datos.
 * b) Sensores
-* R/ Son dispositivos que detectan cambios en el entorno físico, como temperatura, luz, humedad, movimiento, o proximidad. 
-Ejemplos:
+* R/ Son dispositivos que detectan cambios en el entorno físico, como temperatura, luz, humedad, movimiento, o proximidad.
 * •	Sensor de temperatura
 * •	Sensor de movimiento
 * •	Sensor de humedad
-
+## ![sensores](https://masterplc.com/wp-content/uploads/2023/07/Tipos-de-Sensores-1.webp)
+Ejemplos:
 * c) Actuadores
 * R/ Son los dispositivos encargados de realizar una acción o cambiar el estado de un sistema en respuesta a una señal.
 Ejemplos:
@@ -34,6 +34,7 @@ TIPOS:
 3) Big data
 * a) Concepto
 * R/ Big Data es un término que se refiere al manejo de grandes volúmenes de datos, tan masivos que requieren de tecnologías y técnicas avanzadas para su almacenamiento, procesamiento y análisis.
+## ![sensores](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_YbXp-LHXSxxOJ15x3xi9jq-xV2PFEDk0ag&s)
 * b) Origen de los datos
 * R/ Los datos provienen de una amplia variedad de fuentes, tales como:
 * •	Datos transaccionales: Registros de compras, pagos, etc.
@@ -56,6 +57,7 @@ TIPOS:
 * R/ La brecha digital hace referencia a la desigualdad en el acceso y uso de tecnologías de la información y la comunicación 
 * b) Ciberdelincuencia
 * La ciberdelincuencia abarca todos los delitos que se cometen a través de internet o dispositivos conectados. Involucra la explotación de vulnerabilidades tecnológicas para atacar individuos, organizaciones o gobiernos.
+## ![seguridad](https://www.google.com/imgres?q=ciberdelincuencia&imgurl=https%3A%2F%2Fwww.unir.net%2Fwp-content%2Fuploads%2F2020%2F09%2FiStock-540848970-1-1-1.jpg&imgrefurl=https%3A%2F%2Fwww.unir.net%2Fderecho%2Frevista%2Fque-es-ciberdelincuencia%2F&docid=Ek3p0Yn49K2HyM&tbnid=BmO3pazXBmIacM&vet=12ahUKEwjevsL7q-2IAxWXcvEDHQRECv8QM3oECFMQAA..i&w=661&h=382&hcb=2&ved=2ahUKEwjevsL7q-2IAxWXcvEDHQRECv8QM3oECFMQAA
 * i) Malware: virus, gusano, troyano, rootkit, WannaCry, spam, hoax, keyloggers etc.
 * R/ Malware: virus, gusano, troyano, rootkit, WannaCry, spam, hoax, keyloggers
 * •	Virus: Programas que infectan otros archivos y se propagan dañando el sistema.
@@ -66,7 +68,7 @@ TIPOS:
 * •	Spam: Mensajes no solicitados, generalmente publicitarios, que saturan el correo electrónico.
 * •	Hoax: Falsos rumores o estafas propagadas principalmente a través de correos o redes sociales.
 * •	Keylogger: Programa que registra las pulsaciones del teclado, capturando información confidencial como contraseñas.
-
+## ![anti](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI5zN8di3BP9RO6TBRnwe4ffyQgqlUX-WzMQ&s)
 * ii) Ciberacoso: ciberbullying y sexting
 * R/ •	Ciberbullying: El acoso, amenazas o humillaciones a través de internet, redes sociales o medios digitales.
 * •	Sexting: Envío de contenido sexual a través de dispositivos digitales, que puede resultar en humillación o chantaje si es distribuido sin consentimiento.
