@@ -6,6 +6,7 @@
 ***
 2) Domotica
 * R/ La domótica se refiere al conjunto de tecnologías aplicadas al control y automatización inteligente de los sistemas y dispositivos del hogar u oficina, lo que permite una mayor eficiencia energética, seguridad y confort.
+## (https://www.caloryfrio.com/images/articulos/regulacion/smarthome.webp).
 * a) Diferencia entre domótica e IoT
 * R/ Domótica: Específicamente se refiere a la automatización y control de dispositivos dentro del hogar o edificio.
 IoT (Internet of Things): Se refiere a una red de objetos físicos conectados a internet que pueden recolectar, intercambiar y transmitir datos.
@@ -51,8 +52,8 @@ TIPOS:
 
  ***
 4) Consecuencias no deseables de la sociedad del conocimiento
-* R/ a) La brecha digital
-* La brecha digital hace referencia a la desigualdad en el acceso y uso de tecnologías de la información y la comunicación 
+* a) La brecha digital
+* R/ La brecha digital hace referencia a la desigualdad en el acceso y uso de tecnologías de la información y la comunicación 
 * b) Ciberdelincuencia
 * La ciberdelincuencia abarca todos los delitos que se cometen a través de internet o dispositivos conectados. Involucra la explotación de vulnerabilidades tecnológicas para atacar individuos, organizaciones o gobiernos.
 * i) Malware: virus, gusano, troyano, rootkit, WannaCry, spam, hoax, keyloggers etc.
