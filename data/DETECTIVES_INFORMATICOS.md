@@ -29,11 +29,23 @@
 
 ***
 4) La arquitectura de Von Neumann.
+* John von Neumann propuso una arquitectura que define cómo deben organizarse las computadoras. Este diseño incluye una CPU, una memoria unificada que almacena tanto datos como instrucciones, y un sistema de entrada/salida. El hecho de que las instrucciones del programa se almacenaran en la misma memoria que los datos permitió que las computadoras fueran mucho más flexibles y capaces de ejecutar diferentes programas sin tener que ser reconfiguradas físicamente.
+## ![Sin título](https://github.com/user-attachments/assets/f3b2edbe-df1a-4ceb-a630-95145d9d3995)
+
 ***
 5) Los primeros ordenadores (explicar brevemente para qué se crearon en incorporar alguna fotografía para comparar con los actuales)
 * a) Colossus Mark I
-* b) ENIAC 
+* Colossus fue desarrollado en Gran Bretaña para descifrar los mensajes codificados alemanes enviados mediante la máquina Lorenz durante la Segunda Guerra Mundial. Fue el primer ordenador digital programable de la historia.
+ ## ![Sin título](https://github.com/user-attachments/assets/7ba9f6b4-5574-417d-9cfa-48a5abadd751)
+
+* b) ENIAC
+* ENIAC fue diseñado para calcular tablas de artillería para el ejército estadounidense durante la Segunda Guerra Mundial. Fue el primer ordenador electrónico de propósito general y utilizaba más de 17,000 tubos de vacío.
+ ## ![Sin título](https://github.com/user-attachments/assets/cfe4f8c4-1b28-428b-a6fe-4c08c5d739a5)
+
 * c) EDVAC
+* EDVAC fue una evolución de ENIAC y uno de los primeros en implementar la arquitectura de Von Neumann. Podía almacenar programas y datos en la misma memoria, mejorando la flexibilidad y funcionalidad de las computadoras.
+## ![Sin título](https://github.com/user-attachments/assets/d508dd21-9921-444e-934c-556117c2680e)
+
 ***
 6) Generaciones de ordenadores (fechas e indicar tres características de cada una de ellas, explicar la diferencia entre la electrónica de vacío y la electrónica de semiconductores)
 * 1) Primera Generación (1940-1956)
