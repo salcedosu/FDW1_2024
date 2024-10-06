@@ -57,7 +57,6 @@ TIPOS:
 * R/ La brecha digital hace referencia a la desigualdad en el acceso y uso de tecnologías de la información y la comunicación 
 * b) Ciberdelincuencia
 * La ciberdelincuencia abarca todos los delitos que se cometen a través de internet o dispositivos conectados. Involucra la explotación de vulnerabilidades tecnológicas para atacar individuos, organizaciones o gobiernos.
-## ![seguridad](https://www.google.com/imgres?q=ciberdelincuencia&imgurl=https%3A%2F%2Fwww.unir.net%2Fwp-content%2Fuploads%2F2020%2F09%2FiStock-540848970-1-1-1.jpg&imgrefurl=https%3A%2F%2Fwww.unir.net%2Fderecho%2Frevista%2Fque-es-ciberdelincuencia%2F&docid=Ek3p0Yn49K2HyM&tbnid=BmO3pazXBmIacM&vet=12ahUKEwjevsL7q-2IAxWXcvEDHQRECv8QM3oECFMQAA..i&w=661&h=382&hcb=2&ved=2ahUKEwjevsL7q-2IAxWXcvEDHQRECv8QM3oECFMQAA
 * i) Malware: virus, gusano, troyano, rootkit, WannaCry, spam, hoax, keyloggers etc.
 * R/ Malware: virus, gusano, troyano, rootkit, WannaCry, spam, hoax, keyloggers
 * •	Virus: Programas que infectan otros archivos y se propagan dañando el sistema.
