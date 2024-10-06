@@ -1,22 +1,32 @@
 # Detectives informaticos 
 ## DESARROLLA LOS SIGUIENTES CONTENIDOS
 1) La máquina de calcular de Pascal (pascalina)
- ## ![la máquina de calcular de pascal](https://github.com/user-attachments/assets/93b13f4c-3b0f-47f7-aaaf-74798fae9a11)
-
 * a) Año de fabricación
 * La pascalina fue creada en 1642 por Blaise Pascal, pero su desarrollo completo de sus versiones se extendió hasta 1645.
 * b) Descripción y funcionamiento (5 líneas)
-* 
+* La Pascalina fue creada por Blaise Pascal para ayudar a su padre, que trabajaba como recaudador de impuestos. Funcionaba mediante una serie de ruedas dentadas que representaban las unidades, decenas, y centenas. Cada rueda giraba a medida que se introducían números para realizar sumas y restas, con un sistema mecánico que trasladaba automáticamente el valor a las ruedas superiores para calcular cifras más grandes
 * c) ¿Por qué no tuvo el éxito esperado?
+* Aunque la Pascalina fue un avance notable, no tuvo gran éxito comercial debido a su alto costo de producción y la falta de demanda general en el mercado. Además, muchos preferían seguir usando los métodos manuales tradicionales de cálculo, ya que no todos podían permitirse la costosa máquina.
+ ## ![la máquina de calcular de pascal](https://github.com/user-attachments/assets/93b13f4c-3b0f-47f7-aaaf-74798fae9a11)
 ***
 2) La máquina analítica de Babbage
 * a) Año de fabricación.
+* Diseñada en 1837.
 * b) Estructura y finalidad de la máquina.
+* La máquina analítica fue un diseño pionero para una computadora mecánica completa. Contaba con un "molino" que actuaba como la CPU, una "tienda" que funcionaba como memoria, y un sistema de entrada y salida que usaba tarjetas perforadas. La finalidad era automatizar cálculos matemáticos complejos a través de secuencias predefinidas.
 * c) Concepto de programa y algoritmo.
-* d)El papel de Ada Byron.
+* La máquina analítica introdujo el concepto de que una máquina podía seguir una serie de instrucciones o programa. Un algoritmo es un conjunto de pasos o reglas que la máquina seguiría para resolver un problema matemático específico.
+* d) El papel de Ada Byron.
+*  Ada Lovelace, amiga de Charles Babbage, jugó un papel clave al entender el potencial de la máquina más allá de los cálculos matemáticos. Escribió el primer algoritmo para la máquina y sugirió que las computadoras podrían ser usadas para crear arte o música en el futuro.
 * e) Inconvenientes.
+*La máquina nunca fue completamente construida debido a los problemas técnicos y financieros de la época. Su diseño era extremadamente complejo y las tecnologías mecánicas disponibles no eran lo suficientemente avanzadas para producirla de manera eficiente.
+## ![Sin título](https://github.com/user-attachments/assets/90ecdbb1-a23d-4749-9292-0a9f64269a0e)
+
 ***
 3) La máquina universal de Turing.
+*La máquina universal de Turing, una idea teórica desarrollada por Alan Turing, establece un modelo de computación capaz de resolver cualquier problema matemático computable. Utiliza una cinta infinita de símbolos, un cabezal que lee y escribe en la cinta y un conjunto de reglas (algoritmos) que definen el comportamiento de la máquina. Este modelo sirvió como base para la creación de las computadoras modernas.
+## ![Sin título](https://github.com/user-attachments/assets/5f5c1682-6612-46c0-8112-938c57fd9abd)
+
 ***
 4) La arquitectura de Von Neumann.
 ***
