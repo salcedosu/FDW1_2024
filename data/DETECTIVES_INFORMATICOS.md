@@ -26,7 +26,7 @@
 * c) EDVAC
 ***
 6) Generaciones de ordenadores (fechas e indicar tres características de cada una de ellas, explicar la diferencia entre la electrónica de vacío y la electrónica de semiconductores)
-*1) Primera Generación (1940-1956)
+* 1) Primera Generación (1940-1956)
    * Tecnología: Tubos de vacío.
    * Característica 1: Uso de tarjetas perforadas para entrada de datos.
    * Característica 2: Gran tamaño y consumo de energía.
@@ -50,7 +50,7 @@
    * Característica 2: Dispositivos portátiles y más compactos.
    * Característica 3: Conectividad a Internet y redes globales.
   
-  *5) la diferencia entre la electrónica de vacío y la electrónica de semiconductores:
+  * 5) la diferencia entre la electrónica de vacío y la electrónica de semiconductores:
 
 * Electrónica de vacío: Utiliza tubos de vacío para controlar el flujo de electrones en los circuitos. Son grandes, generan mucho calor y consumen mucha energía.
 * Electrónica de semiconductores: Utiliza transistores y circuitos integrados que son más pequeños, eficientes, y duraderos, lo que permitió la miniaturización y el avance de la informática.
