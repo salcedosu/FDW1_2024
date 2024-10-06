@@ -1,6 +1,7 @@
 # TAREA 2. HISTORIA DE INTERNET
 ## DESARROLLA BREVEMENTE LOS SIGUIENTES CONTENIDOS (indicando su fecha de aparición y su importancia)
 1) ARPANET
+* ARPANET (Advanced Research Projects Agency Network) fue la primera red de conmutación de paquetes y precursora de Internet. Desarrollada en 1969 por el Departamento de Defensa de EE.UU., su propósito inicial era crear una red de comunicaciones descentralizada que pudiera sobrevivir a un ataque nuclear. ARPANET conectaba inicialmente cuatro universidades: UCLA, Stanford, UCSB y la Universidad de Utah. Fue la primera red en implementar el protocolo TCP/IP.
 ***
 2) TCP/IP
 ***
