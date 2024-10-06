@@ -43,7 +43,7 @@
   * Característica 1: Mayor miniaturización y rendimiento.
   *  Característica 2: Multiprogramación, lo que permite a varios programas ejecutarse al mismo tiempo.
   *  Característica 3: Aparición de sistemas operativos más avanzados.
-  *4) Cuarta Generación (1971-presente)
+  * 4) Cuarta Generación (1971-presente)
 
    * Tecnología: Microprocesadores.
    * Característica 1: Computadoras personales (PC) accesibles para el público general.
